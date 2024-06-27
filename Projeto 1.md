@@ -1,4 +1,4 @@
-### 📊 Projeto 1 | Analisando dados de um Dashboard de Vendas no Power BI
+📊 Projeto 1 | Analisando dados de um Dashboard de Vendas no Power BI
 
 Este projeto foi criando como parte do aprendizado do módulo.
 
